@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://FDUWhite.github.io</id>
     <title>FDUWhite</title>
-    <updated>2021-04-23T07:28:31.345Z</updated>
+    <updated>2021-04-23T07:31:42.861Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://FDUWhite.github.io"/>
     <link rel="self" href="https://FDUWhite.github.io/atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://FDUWhite.github.io/images/avatar.png</logo>
     <icon>https://FDUWhite.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, FDUWhite</rights>
+    <entry>
+        <title type="html"><![CDATA[论文第一天]]></title>
+        <id>https://FDUWhite.github.io/post/lun-wen-di-yi-tian/</id>
+        <link href="https://FDUWhite.github.io/post/lun-wen-di-yi-tian/">
+        </link>
+        <updated>2021-04-23T07:30:07.000Z</updated>
+        <summary type="html"><![CDATA[<p>论文真好看🤓</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>论文真好看🤓</p>
+<!-- more -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://FDUWhite.github.io/post/hello-gridea/</id>
