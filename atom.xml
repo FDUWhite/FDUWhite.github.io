@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://FDUWhite.github.io</id>
-    <title>Gridea</title>
-    <updated>2021-04-23T07:23:33.395Z</updated>
+    <title>FDUWhite</title>
+    <updated>2021-04-23T07:28:31.345Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://FDUWhite.github.io"/>
     <link rel="self" href="https://FDUWhite.github.io/atom.xml"/>
     <subtitle>超级美少女战士</subtitle>
     <logo>https://FDUWhite.github.io/images/avatar.png</logo>
     <icon>https://FDUWhite.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, FDUWhite</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://FDUWhite.github.io/post/hello-gridea/</id>
